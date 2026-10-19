@@ -1,0 +1,3 @@
+# DEMO: bloquear indexacion hasta definir dominio, datos y privacidad.
+User-agent: *
+Disallow: /

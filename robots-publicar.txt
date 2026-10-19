@@ -1,0 +1,4 @@
+# Copiar este contenido a robots.txt en el lanzamiento, con el dominio REAL.
+User-agent: *
+Allow: /
+Sitemap: https://TU-DOMINIO.com/sitemap.xml
